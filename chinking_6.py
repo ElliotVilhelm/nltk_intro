@@ -1,11 +1,6 @@
 """
-Chunking: the objective here is to turn the text into "chunks" based
-          on the regex expression denoted as "chunkGram"
+Chinking: Chunk EXCEPT .. 
 """
-
-
-
-
 import nltk
 from nltk.corpus import state_union # state of the union addresses form last 70 years
 # unsupervised ML tokenizer, comes pre trained, can be trained
